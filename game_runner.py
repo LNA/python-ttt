@@ -1,6 +1,6 @@
 from lib.command_line_runner import CommandLineRunner
-from lib.ui                  import UI
+from lib.io                  import IO
 
-ui = UI()
-command_line_runner = CommandLineRunner(ui)
+io = IO()
+command_line_runner = CommandLineRunner(io)
 command_line_runner.start_game()
