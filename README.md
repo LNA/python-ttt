@@ -1,4 +1,4 @@
 # python-ttt
 
-cd into the directory
-Python game_runner.py
+* cd into the directory
+* Python game_runner.py
